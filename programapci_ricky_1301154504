@@ -1,0 +1,12 @@
+apci-1301154504-;
+uses crt;
+begin
+ClrScr;
+Writeln(‘Hello’);
+Writeln('1301154504');
+Writeln(‘febriana’);
+Writeln(‘if 39-14’);
+Writeln(‘ricky’);
+Writeln(‘1301154560’);
+Writeln(‘Modul 6’); 
+End.
